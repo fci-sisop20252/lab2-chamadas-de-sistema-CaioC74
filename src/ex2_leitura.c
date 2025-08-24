@@ -23,10 +23,6 @@ int main() {
     
     printf("=== Exercício 2: Leitura de Arquivo ===\n\n");
     
-    /*
-     * TODO 1: Abrir o arquivo 'dados/teste1.txt' para leitura
-     * Use open() com O_RDONLY
-     */
     fd = open("dados/teste1.txt", O_RDONLY);
     if (fd < 0) {
         perror("Erro ao abrir arquivo");

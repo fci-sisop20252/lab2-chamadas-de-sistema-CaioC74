@@ -14,7 +14,7 @@ echo ""
 
 # Verificação de segurança
 echo -e "${RED}╔════════════════════════════════════════════════════════╗${NC}"
-echo -e "${RED}║                    ⚠️  AVISO IMPORTANTE ⚠️             ║${NC}"
+echo -e "${RED}║                    ⚠️  AVISO IMPORTANTE ⚠️            ║${NC}"
 echo -e "${RED}╠════════════════════════════════════════════════════════╣${NC}"
 echo -e "${RED}║  EXECUTE ESTE SCRIPT APENAS EM SUA MÁQUINA PESSOAL!    ║${NC}"
 echo -e "${RED}║                                                        ║${NC}"
